@@ -68,16 +68,16 @@
 ### 📊 Real-Time GitHub Analytics & Activity Graphs
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMRAT-N-AARNNAV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMRAT-N-AARNAV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SAMRAT-N-AARNNAV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRAT-N-AARNNAV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SAMRAT-N-AARNAV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRAT-N-AARNAV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMRAT-N-AARNNAV&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMRAT-N-AARNAV&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
 </p>
 
 ---
