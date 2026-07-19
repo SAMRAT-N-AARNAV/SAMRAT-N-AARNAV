@@ -1,4 +1,4 @@
-# Hi, I'm Samrat BN 👋 <img src="https://media.giphy.com/media/12PA1eI8FBqEUM/giphy.gif" width="30">
+# Hi, I'm Samrat BN 👋 <img src="https://media.giphy.com/media/12PA1eI8FB7vW/giphy.gif" width="35">
 
 <p align="left">
   <a href="https://linkedin.com/in/samratnaarnav">
@@ -6,46 +6,16 @@
   </a>
 </p>
 
-I am an entrepreneurial full-stack software engineer who designs, builds, and deploys scalable web applications[cite: 1]. From architecting robust REST APIs with Spring Boot to configuring secure, on-premise Linux server environments[cite: 1], I enjoy bridging the gap between clean backend code and real-world system infrastructure[cite: 1].
-
 ---
 
-### 🎮 Contribution Snake Game (Live Grid Animation)
+### 🙋‍♂️ About Me
 
-<!-- This animates your actual GitHub contribution graph into an arcade game -->
-name: Generate Snake Animation
+I am a full-stack engineer and co-founder with a strong foundation in Java, Spring Boot, and scalable system infrastructure[cite: 1]. I specialize in engineering secure backend APIs, integrating interactive frontends, and optimizing code performance through algorithmic workflows[cite: 1]. 
 
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: samrat177
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+* 🏢 **Current Role**: Co-Founder & Full Stack Developer at **SAMNOX**[cite: 1] & Full Stack Development Intern at **Kodnest Technologies**[cite: 1].
+* 🛠️ **Core Focus**: Enterprise Java architectures, database optimization, and secure Linux cloud hosting deployment[cite: 1].
+* 🚀 **Algorithmic Strength**: Solved **350+ data structures and algorithms challenges** across LeetCode and GeeksforGeeks using Java[cite: 1].
+* 🎓 **Education**: Bachelor of Engineering from **Siddaganga Institute of Technology**[cite: 1].
 
 ---
 
@@ -59,7 +29,7 @@ jobs:
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 </p>
 
-<b style="color: #36BCF7;">Frontend & UI</b>
+<b style="color: #36BCF7;">Frontend & UI Design</b>
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -67,7 +37,7 @@ jobs:
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<b style="color: #36BCF7;">Databases, Cloud & Systems</b>
+<b style="color: #36BCF7;">Databases, Cloud & Operations</b>
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -78,24 +48,20 @@ jobs:
 
 ---
 
-### 🚀 Featured Venture & Impact
+### 🚀 Key Projects & Impact
 
 🚀 **Co-Founder & Full Stack Developer @ SAMNOX** *(Feb 2026 - Present)*[cite: 1]
-* **SaaS Delivery:** Leading a 5-member team engineering localized retail applications (*Namma-Invetro*, *Namma-Angadi*, *Namma-Lekka*) using a Spring Boot backend and React frontend[cite: 1].
-* **Edge Deployment:** Architected and maintained an on-premise Linux production environment on a Raspberry Pi, utilizing Cloudflare Tunnels to securely expose web traffic[cite: 1].
-* **Scalability:** Optimized server resource allocation using database caching and connection pooling to seamlessly support 50+ concurrent corporate business clients on minimal local hardware[cite: 1].
+* **SaaS Engineering**: Built localized retail SaaS applications (*Namma-Invetro*, *Namma-Angadi*) with a Spring Boot REST API backend and a responsive React UI[cite: 1].
+* **Hardware Integration**: Developed a real-time data monitoring platform (*Namma-Lekka*) utilizing hardware integrations for immediate data alert delivery[cite: 1].
+* **Traffic Management**: Hosted an on-premise Linux environment over a Raspberry Pi, implementing Cloudflare Tunnels to securely map public web traffic[cite: 1].
+* **System Scaling**: Scaled systems past 50+ concurrent enterprise clients by designing connection pooling and server cache architectures[cite: 1].
+
+🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*[cite: 1]
+* Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating[cite: 1].
 
 ---
 
-### 🏆 Key Highlights & Metrics
-
-* 💡 **Problem Solving:** Successfully solved **350+ DSA challenges** across LeetCode (200+) and GeeksforGeeks (150+) using Java[cite: 1].
-* 🥇 **Awards:** Awarded 1st Prize for developing an **AI-Based Automated Defect Detection System** utilizing Python, OpenCV, and NumPy to automate quality checks with a 92% accuracy rate[cite: 1].
-* ☁️ **Certifications:** Completed the **AWS APAC Solutions Architecture** Virtual Experience Program[cite: 1].
-
----
-
-### 📊 Performance Analytics & Live Activity Graphs
+### 📊 Real-Time GitHub Analytics & Activity Graphs
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat177&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
@@ -122,5 +88,3 @@ jobs:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-
