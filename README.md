@@ -10,14 +10,17 @@
 
 ### 🙋‍♂️ About Me
 
-I am a full-stack engineer and co-founder with a strong foundation in Java, Spring Boot, and scalable system infrastructure[cite: 1]. I specialize in engineering secure backend APIs, integrating interactive frontends, and optimizing code performance through algorithmic workflows[cite: 1]. I focus on turning complex technical challenges into efficient, commercial software products.
+``` I am an entrepreneurial full-stack developer who transforms complex backend challenges into highly scalable, customer-ready SaaS solutions. ```
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A9B1D6&vCenter=true&width=500&lines=%F0%9F%92%BB+Architecting+Java+%26+Spring+Boot+APIs;%F0%9F%9A%80+Optimizing+on-premise+Linux+servers;%F0%9F%93%8A+350%2B+Data+Structures+challenges+solved" alt="Activity Typing SVG" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/LeetCode%20%26%20GFG-350+%20Solved-FFE15D?style=flat-square&logo=leetcode&logoColor=black" alt="DSA Stats" />
   <img src="https://img.shields.io/badge/Venture-SAMNOX%20Co--Founder-36BCF7?style=flat-square&logo=rocket&logoColor=white" alt="Venture" />
   <img src="https://img.shields.io/badge/Education-B.E.%20SIT-FF8B13?style=flat-square&logo=education&logoColor=white" alt="Education" />
 </p>
-
 ---
 
 ### 🛠️ Technical Ecosystem
