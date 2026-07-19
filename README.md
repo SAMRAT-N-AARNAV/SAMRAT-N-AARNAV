@@ -10,12 +10,13 @@
 
 ### 🙋‍♂️ About Me
 
-I am a full-stack engineer and co-founder with a strong foundation in Java, Spring Boot, and scalable system infrastructure[cite: 1]. I specialize in engineering secure backend APIs, integrating interactive frontends, and optimizing code performance through algorithmic workflows[cite: 1]. 
+I am a full-stack engineer and co-founder with a strong foundation in Java, Spring Boot, and scalable system infrastructure[cite: 1]. I specialize in engineering secure backend APIs, integrating interactive frontends, and optimizing code performance through algorithmic workflows[cite: 1]. I focus on turning complex technical challenges into efficient, commercial software products.
 
-* 🏢 **Current Role**: Co-Founder & Full Stack Developer at **SAMNOX**[cite: 1] & Full Stack Development Intern at **Kodnest Technologies**[cite: 1].
-* 🛠️ **Core Focus**: Enterprise Java architectures, database optimization, and secure Linux cloud hosting deployment[cite: 1].
-* 🚀 **Algorithmic Strength**: Solved **350+ data structures and algorithms challenges** across LeetCode and GeeksforGeeks using Java[cite: 1].
-* 🎓 **Education**: Bachelor of Engineering from **Siddaganga Institute of Technology**[cite: 1].
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode%20%26%20GFG-350+%20Solved-FFE15D?style=flat-square&logo=leetcode&logoColor=black" alt="DSA Stats" />
+  <img src="https://img.shields.io/badge/Venture-SAMNOX%20Co--Founder-36BCF7?style=flat-square&logo=rocket&logoColor=white" alt="Venture" />
+  <img src="https://img.shields.io/badge/Education-B.E.%20SIT-FF8B13?style=flat-square&logo=education&logoColor=white" alt="Education" />
+</p>
 
 ---
 
@@ -56,6 +57,38 @@ I am a full-stack engineer and co-founder with a strong foundation in Java, Spri
 * **Traffic Management**: Hosted an on-premise Linux environment over a Raspberry Pi, implementing Cloudflare Tunnels to securely map public web traffic[cite: 1].
 * **System Scaling**: Scaled systems past 50+ concurrent enterprise clients by designing connection pooling and server cache architectures[cite: 1].
 
+🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*[cite: 1]
+* Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating[cite: 1].
+
+---
+
+### 📊 Real-Time GitHub Analytics & Activity Graphs
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat177&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat177&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/samratnaarnav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samratnaarnav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*[cite: 1]
 * Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating[cite: 1].
 
