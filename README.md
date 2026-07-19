@@ -54,30 +54,30 @@
 
 ### 🚀 Key Projects & Impact
 
-🚀 **Co-Founder & Full Stack Developer @ SAMNOX** *(Feb 2026 - Present)*[cite: 1]
-* **SaaS Engineering**: Built localized retail SaaS applications (*Namma-Invetro*, *Namma-Angadi*) with a Spring Boot REST API backend and a responsive React UI[cite: 1].
-* **Hardware Integration**: Developed a real-time data monitoring platform (*Namma-Lekka*) utilizing hardware integrations for immediate data alert delivery[cite: 1].
-* **Traffic Management**: Hosted an on-premise Linux environment over a Raspberry Pi, implementing Cloudflare Tunnels to securely map public web traffic[cite: 1].
-* **System Scaling**: Scaled systems past 50+ concurrent enterprise clients by designing connection pooling and server cache architectures[cite: 1].
+🚀 **Co-Founder & Full Stack Developer @ SAMNOX** *(Feb 2026 - Present)*
+* **SaaS Engineering**: Built localized retail SaaS applications (*Namma-Invetro*, *Namma-Angadi*) with a Spring Boot REST API backend and a responsive React UI.
+* **Hardware Integration**: Developed a real-time data monitoring platform (*Namma-Lekka*) utilizing hardware integrations for immediate data alert delivery.
+* **Traffic Management**: Hosted an on-premise Linux environment over a Raspberry Pi, implementing Cloudflare Tunnels to securely map public web traffic.
+* **System Scaling**: Scaled systems past 50+ concurrent enterprise clients by designing connection pooling and server cache architectures.
 
-🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*[cite: 1]
-* Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating[cite: 1].
+🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*
+* Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating.
 
 ---
 
 ### 📊 Real-Time GitHub Analytics & Activity Graphs
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat177&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMRAT-N-AARNNAV&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=samrat177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SAMRAT-N-AARNNAV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMRAT-N-AARNNAV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat177&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMRAT-N-AARNNAV&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -92,8 +92,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-🥇 **AI-Based Automated Defect Detection System** *(1st Prize Winner)*[cite: 1]
-* Developed an industrial computer vision infrastructure using Python, OpenCV, and NumPy to run automated physical line quality controls, detecting cracks and structural shifts with a 92% accuracy rating[cite: 1].
-
----
-
