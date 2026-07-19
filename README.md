@@ -13,11 +13,39 @@ I am an entrepreneurial full-stack software engineer who designs, builds, and de
 ### 🎮 Contribution Snake Game (Live Grid Animation)
 
 <!-- This animates your actual GitHub contribution graph into an arcade game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: samrat177
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
@@ -94,3 +122,5 @@ I am an entrepreneurial full-stack software engineer who designs, builds, and de
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
