@@ -1,4 +1,4 @@
-# Hi, I'm Samrat BN 👋 <img src="https://media.giphy.com/media/12PA1eI8FB7vW/giphy.gif" width="35">
+# Hi, I'm SAMRAT N AARNAV 👋 <img src="https://media.giphy.com/media/12PA1eI8FB7vW/giphy.gif" width="35">
 
 <p align="left">
   <a href="https://linkedin.com/in/samratnaarnav">
@@ -94,30 +94,3 @@ I am a full-stack engineer and co-founder with a strong foundation in Java, Spri
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Activity Graphs
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat177&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat177&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/samratnaarnav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:samratnaarnav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
