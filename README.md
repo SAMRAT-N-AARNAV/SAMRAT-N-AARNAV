@@ -2,11 +2,22 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/samratnaarnav">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Co-Founder+%26+Full-Stack+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+SaaS+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Co-Founder+%26+Full-Stack+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+SaaS+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 I am an entrepreneurial full-stack software engineer who designs, builds, and deploys scalable web applications[cite: 1]. From architecting robust REST APIs with Spring Boot to configuring secure, on-premise Linux server environments[cite: 1], I enjoy bridging the gap between clean backend code and real-world system infrastructure[cite: 1].
+
+---
+
+### 🎮 Contribution Snake Game (Live Grid Animation)
+
+<!-- This animates your actual GitHub contribution graph into an arcade game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Streak Snake" src="https://raw.githubusercontent.com/samrat177/samrat177/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
@@ -56,15 +67,19 @@ I am an entrepreneurial full-stack software engineer who designs, builds, and de
 
 ---
 
-### 📊 Animated Analytics & Activity Graph
+### 📊 Performance Analytics & Live Activity Graphs
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat177&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Samrat's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Samrat's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrat177&theme=tokyonight&hide_border=true" alt="Samrat's GitHub Streak" width="100%" />
 </p>
 
 ---
